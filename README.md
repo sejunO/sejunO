@@ -2,7 +2,7 @@
 👋👋👋Hello World !👋👋👋
 </div>
 
-![Sejun's github stats](https://github-readme-stats.vercel.app/api?username=sejunO)](https://github.com/anuraghazra/github-readme-stats)
+![Sejun's github stats](https://github-readme-stats.vercel.app/api?username=sejunO)
 <a href="https://https://sejuno.github.io/">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
