@@ -2,14 +2,10 @@
 👋👋👋Hello World !👋👋👋
 </div>
 
-  
+![Sejun's github stats](https://github-readme-stats.vercel.app/api?username=sejunO)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://https://sejuno.github.io/">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
-
-<br />
-<br />
-[![Sejun's github stats](https://github-readme-stats.vercel.app/api?username=sejunO)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **sejunO/sejunO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
